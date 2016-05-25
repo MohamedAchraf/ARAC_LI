@@ -30,3 +30,6 @@ ARAC learning interface is an ASP based activities generator for Arabic learning
 ![Arac L.I. screenshot 9](images/ARAC_LI_SC_09.png)
 
 ARAC L. I. is free software; it's distributed in the hope that it will be useful.
+
+Mohamed Achraf BEN MOHAMED   <br /> 
+mohamedachraf@gmail.com
